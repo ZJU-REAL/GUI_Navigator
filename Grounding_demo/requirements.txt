@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+gradio==4.41.0
+Pillow==10.3.0
+numpy==2.1.2
+torch==2.4.1+cu121
+torchvision==0.19.1+cu121
+torchaudio==2.4.1+cu121
+transformers==4.49.0
+qwen-vl-utils==0.0.8
+accelerate==1.0.1
+sentencepiece==0.2.0
+safetensors==0.4.5
